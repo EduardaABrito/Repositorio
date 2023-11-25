@@ -1,2 +1,2 @@
 # Repositorio
-Projeto da aula de algoritmo.
+Este projeto foi criado de apresentar como criar um Repositório.
